@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferance NoteApp</string>
+    <string name="note_app_shared_preferance">Note App - Shared Preferance</string>
+    <string name="background">Background</string>
+    <string name="display_note">Display Note</string>
+    <string name="enter_note">Enter Note</string>
+</resources>
